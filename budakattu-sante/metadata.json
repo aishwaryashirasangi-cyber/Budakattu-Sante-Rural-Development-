@@ -1,0 +1,6 @@
+{
+  "name": "Budakattu-Sante",
+  "description": "A Forest-to-Home marketplace for tribal cooperatives to list forest products, track source families, display government Minimum Support Prices (MSP), and manage pre-orders with stock limit checks and localized audio guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
